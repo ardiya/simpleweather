@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SimpleWeather</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="runtime_permissions_txt">Please enable all permissions</string>
+    <string name="oops">Oops... There is something wrong..</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_location_title">Location</string>
+    <string name="pref_location_city_title">City Name</string>
+    <string name="pref_location_city_description">Input the name of your city</string>
+    <string name="pref_location_city_default">Jakarta</string>
+
+</resources>

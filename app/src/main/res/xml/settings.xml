@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/pref_location_title"
+        android:key="pref_key_location">
+        <EditTextPreference
+            android:key="pref_key_city_name"
+            android:title="@string/pref_location_city_title"
+            android:summary="@string/pref_location_city_description"
+            android:defaultValue="@string/pref_location_city_default" />
+
+    </PreferenceCategory>
+</PreferenceScreen>
