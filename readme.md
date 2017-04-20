@@ -11,8 +11,8 @@ A Simple Weather android APP
 
 ### Screenshot
 ![Daily Weather](https://github.com/ardiya/simpleweather/raw/master/screenshot/Screenshot_20170420-205157.png)
-![Forecast](https://github.com/ardiya/raw/simpleweather/master/screenshot/Screenshot_20170420-205204.png)
-![Nav](https://github.com/ardiya/raw/simpleweather/master/screenshot/Screenshot_20170420-205212.png)
+![Forecast](https://github.com/ardiya/simpleweather/raw/master/screenshot/Screenshot_20170420-205204.png)
+![Nav](https://github.com/ardiya/simpleweather/raw/master/screenshot/Screenshot_20170420-205212.png)
 
 ### Tech
 
